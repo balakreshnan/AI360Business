@@ -1,6 +1,6 @@
 # AI 360: Building and Executing a Successful AI Strategy
 
-![logo](https://github.com/balakreshnan/AI360Business/blob/main/ai360-3.jpeg, "AI 360")
+![logo](https://github.com/balakreshnan/AI360Business/blob/main/ai360-2.jpeg)
 
 ## Course Overview
 - **Duration**: 6 weeks, 1 hour 30 minutes per session
